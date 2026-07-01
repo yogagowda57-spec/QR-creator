@@ -7,7 +7,7 @@
 
 ### 1. 📂 13 Multi-Protocol Scanners
 QRMaster Pro translates form entries directly into standard, stock-compatible QR schemas, meaning they immediately work on standard iOS & Android camera scanners without any custom apps:
-*   **Website URLs**: Standard web link directions (`https://...`).
+*   **Website URLs**: Standard web link directions (`[https://...](https://qrmaster-pro-252335853638.asia-southeast1.run.app)`).
 *   **Plain Text**: Multilingual offline text blocks up to 1,200 characters.
 *   **WiFi Networks**: Automatic credentials sharing (`WIFI:S:<ssid>;T:<enc>;P:<pass>;;`).
 *   **Phone Calls**: Single-tap mobile tel links (`tel:<phone>`).
