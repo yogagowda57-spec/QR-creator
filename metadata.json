@@ -1,0 +1,6 @@
+{
+  "name": "QRMaster Pro",
+  "description": "A premium, production-grade QR code generator and designer featuring custom styles, brand logo overlays, live multi-format downloads, history logs, and advanced vector control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
