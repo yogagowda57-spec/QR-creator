@@ -3,7 +3,7 @@
 
 ---
 
-## 💎 Features & Customization Engine
+### 💎 Features & Customization Engine
 
 ### 1. 📂 13 Multi-Protocol Scanners
 QRMaster Pro translates form entries directly into standard, stock-compatible QR schemas, meaning they immediately work on standard iOS & Android camera scanners without any custom apps:
