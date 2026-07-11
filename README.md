@@ -19,7 +19,11 @@ QRMaster Pro translates form entries directly into standard, stock-compatible QR
 *   **UPI Financial Payments**: Unified Payment interface deep links supporting Payee VPA, display name, amount, billing note, and transactional currencies.
 *   **Calendar & Events**: iCalendar-standard `VEVENT` files supporting summary, location, start and end dates.
 *   **Social Channels**: Profile link quick managers for Instagram, Twitter/X, LinkedIn, YouTube, TikTok, Facebook, and GitHub.
+
+  
 *   <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ec1a0f20-944c-4a72-948a-6e1891cda43a" />
+
+
 
 
 ### 2. 🎨 Advanced Styling & Node Customization
