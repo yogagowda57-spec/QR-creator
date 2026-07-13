@@ -8,6 +8,11 @@
 ### 1. 📂 13 Multi-Protocol Scanners
 QRMaster Pro translates form entries directly into standard, stock-compatible QR schemas, meaning they immediately work on standard iOS & Android camera scanners without any custom apps:
 *   **Website URLs**: Standard web link directions : https://qrmaster-pro-252335853638.asia-southeast1.run.app
+
+
+*   <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ec1a0f20-944c-4a72-948a-6e1891cda43a" />
+
+
 *   **Plain Text**: Multilingual offline text blocks up to 1,200 characters.
 *   **WiFi Networks**: Automatic credentials sharing (`WIFI:S:<ssid>;T:<enc>;P:<pass>;;`).
 *   **Phone Calls**: Single-tap mobile tel links (`tel:<phone>`).
@@ -19,10 +24,6 @@ QRMaster Pro translates form entries directly into standard, stock-compatible QR
 *   **UPI Financial Payments**: Unified Payment interface deep links supporting Payee VPA, display name, amount, billing note, and transactional currencies.
 *   **Calendar & Events**: iCalendar-standard `VEVENT` files supporting summary, location, start and end dates.
 *   **Social Channels**: Profile link quick managers for Instagram, Twitter/X, LinkedIn, YouTube, TikTok, Facebook, and GitHub.
-
-  
-*   <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ec1a0f20-944c-4a72-948a-6e1891cda43a" />
-
 
 
 
