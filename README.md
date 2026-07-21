@@ -9,8 +9,13 @@
 QRMaster Pro translates form entries directly into standard, stock-compatible QR schemas, meaning they immediately work on standard iOS & Android camera scanners without any custom apps:
 *   **Website URLs**: Standard web link directions : https://qrmaster-pro-252335853638.asia-southeast1.run.app
 
+*   
+
 
 *   <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ec1a0f20-944c-4a72-948a-6e1891cda43a" />
+
+
+
 
 
 *   **Plain Text**: Multilingual offline text blocks up to 1,200 characters.
